@@ -1,0 +1,16 @@
+Package: spread
+Version: 0.1
+Date: 2016-09-14
+Title: Tools for Spatial Reallocation of Data
+Author: Emmanuel Blondel <emmanuel.blondel1@gmail.com>
+Maintainer: Emmanuel Blondel <emmanuel.blondel1@gmail.com>
+Depends:
+    R (>= 2.15)
+Suggests:
+    testthat, knitr
+Description:
+  Provides a set of tools to perform spatial reallocation of statistical data
+License: GPL (>= 3)
+URL: https://github.com/eblondel/spread
+VignetteBuilder: knitr
+BugReports: https://github.com/eblondel/spread/issues
